@@ -16,4 +16,4 @@ Available as a .zip <a href="https://docs.microsoft.com/en-us/dynamics365/custom
 <a href="https://github.com/candynamics/herewegov/wiki">WIKI | Read more</a>
 
 ![HWG lietotāja pamata vide](https://github.com/candynamics/herewegov/blob/main/hwg%20main%20interface.png)
-![HWG lietotāja pamata vide](https://github.com/candynamics/herewegov/blob/main/hwg%20ticketing.png)
+![HWG pieteikumu apstrāde](https://github.com/candynamics/herewegov/blob/main/hwg%20ticketing.png)

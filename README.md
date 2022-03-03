@@ -13,4 +13,4 @@ Available as a .zip <a href="https://docs.microsoft.com/en-us/dynamics365/custom
 
 <a href="https://github.com/candynamics/herewegov/releases/tag/herewegov">Get herewegov</a>
 
-<a href="https://github.com/candynamics/herewegov/WIKI | Read more">Wiki</a>
+<a href="https://github.com/candynamics/herewegov/wiki">WIKI | Read more</a>

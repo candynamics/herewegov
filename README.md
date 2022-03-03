@@ -11,6 +11,6 @@ This is a collection of conceptual ideas and functionality that might be useful 
 Intended to be imported into an existing Dynamics 365 environment without existing customizations.
 Available as a .zip file. This project is and will be a work in progress as ideas come and go.
 
-<a href="https://github.com/candynamics/herewegov/releases/tag/herewegov">Get HereWeGov</a>
+<a href="https://github.com/candynamics/herewegov/releases/tag/herewegov">Get herewegov</a>
 
 <a href="https://github.com/candynamics/herewegov/WIKI | Read more">Wiki</a>

@@ -3,7 +3,7 @@
 "Paš-organizācijas" KONCEPTS valsts iestādei uz Microsoft Dynamics 365 for Sales bāzes.
 Potenciāli noderīgu ideju un funkcionalitātes apkopojums valsts iestādes vajadzībām.
 Paredzēts izmantošanai esošā Microsoft Dynamics 365 vidē bez pielāgojumiem.
-Pieejams .zip solution faila formātā. Šis projekts ir un pastāvīgi būs izstrādes stadijā, idejām nākot un  ejot.
+Pieejams .zip solution faila formātā. Šis projekts ir un būs izstrādes stadijā, idejām nākot un  ejot.
 
 ### ENG
 CONCEPT for "self-organisation" in a public sector institution based on Microsoft Dynamics 365 for Sales.

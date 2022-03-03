@@ -1,4 +1,4 @@
-# herewegov
+# here we gov
 ### LAT
 "Pašorganizācijas" KONCEPTS valsts iestādei uz Microsoft Dynamics 365 for Sales bāzes.
 Potenciāli noderīgu ideju un funkcionalitātes apkopojums valsts iestādes vajadzībām.

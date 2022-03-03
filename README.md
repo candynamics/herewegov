@@ -7,7 +7,7 @@ Pieejams .zip <a href="https://docs.microsoft.com/en-us/dynamics365/customerenga
 
 ### ENG
 A concept for "self-organisation" in a public sector institution based on <a href="https://dynamics.microsoft.com/en-us/sales/overview/">Microsoft Dynamics 365 for Sales</a>.
-This is a collection of conceptual ideas and functionality that might be useful for a public sector institution.
+This is a collection of ideas and functionality that might be useful for a public sector institution.
 Intended to be imported into an existing Dynamics 365 environment without existing customizations.
 Available as a .zip <a href="https://docs.microsoft.com/en-us/dynamics365/customerengagement/on-premises/developer/introduction-solutions?view=op-9-1">solution</a> file. This project is and will be a work in progress as ideas come and go.
 

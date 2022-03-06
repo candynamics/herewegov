@@ -28,7 +28,7 @@ Available as a .zip <a href="https://docs.microsoft.com/en-us/dynamics365/custom
 <span><a href="https://github.com/candynamics/herewegov/wiki#pieteikumi"> Vairāk par pieteikumiem. </a></span><br>
 <img src="https://github.com/candynamics/herewegov/blob/main/hwg%20base%20secroles.png" width="50%"/></br><span><a href="https://github.com/candynamics/herewegov/wiki#lietot%C4%81ju-lomas"> Vairāk par lomām. </a></span><br>
 
-<img src="https://github.com/candynamics/herewegov/blob/main/hwg%20infoemail%20workflow.png" width=70%"/></br><span><a href="https://github.com/candynamics/herewegov/wiki#ien%C4%81ko%C5%A1o-epastu-apstr%C4%81de"> Vairāk par ienākošo epastu apstrādi. </a></span><br>
+<img src="https://github.com/candynamics/herewegov/blob/main/hwg%20infoemail%20workflow.png" width="70%"/></br><span><a href="https://github.com/candynamics/herewegov/wiki#ien%C4%81ko%C5%A1o-epastu-apstr%C4%81de"> Vairāk par ienākošo epastu apstrādi. </a></span><br>
 
 
 

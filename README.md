@@ -24,7 +24,7 @@ Available as a .zip <a href="https://docs.microsoft.com/en-us/dynamics365/custom
 
 ![HWG pieteikumu apstrāde](https://github.com/candynamics/herewegov/blob/main/hwg%20ticketing.png)
 
-![HWG lietotāju lomas](https://github.com/candynamics/herewegov/blob/main/hwg%20base%20secroles.png)
+<img src="https://github.com/candynamics/herewegov/blob/main/hwg%20base%20secroles.png" width="50%">
 
 
 

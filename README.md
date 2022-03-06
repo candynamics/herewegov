@@ -21,9 +21,11 @@ Available as a .zip <a href="https://docs.microsoft.com/en-us/dynamics365/custom
 
 
 ![HWG lietotāja pamata vide](https://github.com/candynamics/herewegov/blob/main/hwg%20main%20interface.png)
+<span><a href="https://github.com/candynamics/herewegov/wiki#here-we-gov-komponenti"> Vairāk par komponentiem. </a></span><br>
+
 
 ![HWG pieteikumu apstrāde](https://github.com/candynamics/herewegov/blob/main/hwg%20ticketing.png)
-
+<span><a href="https://github.com/candynamics/herewegov/wiki#pieteikumi"> Vairāk par pieteikumiem. </a></span><br>
 <img src="https://github.com/candynamics/herewegov/blob/main/hwg%20base%20secroles.png" width="50%"/></br><span><a href="https://github.com/candynamics/herewegov/wiki#lietot%C4%81ju-lomas"> Vairāk par lomām. </a></span><br>
 
 

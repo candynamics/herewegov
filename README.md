@@ -3,6 +3,7 @@
 <span><a href="https://github.com/orgs/candynamics/projects/1"> Projekts </a></span><br>
 <span><a href="https:https://github.com/candynamics/herewegov/discussions"> Diskusijas </a></span><br>
 <span><a href="https://github.com/candynamics/herewegov/releases/tag/herewegov"> Get HereWeGov </a></span><br>
+<span><a href="mailto:hi@systemheads.com"> Epasts saziņai </a></span><br>
 
 
 ### LAT

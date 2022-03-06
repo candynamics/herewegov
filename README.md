@@ -19,16 +19,21 @@ Intended to be imported into an existing Dynamics 365 environment without existi
 Available as a .zip <a href="https://docs.microsoft.com/en-us/dynamics365/customerengagement/on-premises/developer/introduction-solutions?view=op-9-1">solution</a> file. This project is and will be a work in progress as ideas come and go.
 
 
-
+# Lietotāja pamata vide
 ![HWG lietotāja pamata vide](https://github.com/candynamics/herewegov/blob/main/hwg%20main%20interface.png)
-<span><a href="https://github.com/candynamics/herewegov/wiki#here-we-gov-komponenti"> Vairāk par komponentiem. </a></span><br>
+### <span><a href="https://github.com/candynamics/herewegov/wiki#here-we-gov-komponenti"> Vairāk par komponentiem. </a></span><br>
 
-
+# Pieteikumu apstrāde
 ![HWG pieteikumu apstrāde](https://github.com/candynamics/herewegov/blob/main/hwg%20ticketing.png)
-<span><a href="https://github.com/candynamics/herewegov/wiki#pieteikumi"> Vairāk par pieteikumiem. </a></span><br>
-<img src="https://github.com/candynamics/herewegov/blob/main/hwg%20base%20secroles.png" width="50%"/></br><span><a href="https://github.com/candynamics/herewegov/wiki#lietot%C4%81ju-lomas"> Vairāk par lomām. </a></span><br>
-
-<img src="https://github.com/candynamics/herewegov/blob/main/hwg%20infoemail%20workflow.png" width="70%"/></br><span><a href="https://github.com/candynamics/herewegov/wiki#ien%C4%81ko%C5%A1o-epastu-apstr%C4%81de"> Vairāk par ienākošo epastu apstrādi. </a></span><br>
+### <span><a href="https://github.com/candynamics/herewegov/wiki#pieteikumi"> Vairāk par pieteikumiem. </a></span><br>
+# Lietotāju lomas
+<img src="https://github.com/candynamics/herewegov/blob/main/hwg%20base%20secroles.png" width="50%"/></br>
+### <span><a href="https://github.com/candynamics/herewegov/wiki#lietot%C4%81ju-lomas"> Vairāk par lomām. </a></span><br>
+# Ienākošo epastu apstrāde
+<img src="https://github.com/candynamics/herewegov/blob/main/hwg%20infoemail%20workflow.png" width="70%"/></br>
+## Praktisks piemērs Epasts-> Pieteikums
+<img src="https://github.com/candynamics/herewegov/blob/main/hwg%20pajautaa.png" width="70%"/></br>
+### <span><a href="https://github.com/candynamics/herewegov/wiki#ien%C4%81ko%C5%A1o-epastu-apstr%C4%81de"> Vairāk par ienākošo epastu apstrādi. </a></span><br>
 
 
 

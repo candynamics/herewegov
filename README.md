@@ -1,7 +1,10 @@
 # here we gov
-<span><a href="https://github.com/candynamics/herewegov/wiki"> Wiki </a></span>
-<span><a href="https://github.com/orgs/candynamics/projects/1"> Projekts </a></span>
-<span><a href="https://github.com/candynamics/herewegov/releases/tag/herewegov"> Get herewegov </a></span>
+<span><a href="https://github.com/candynamics/herewegov/wiki"> Wiki </a></span><br>
+<span><a href="https://github.com/orgs/candynamics/projects/1"> Projekts </a></span><br>
+<span><a href="https://github.com/candynamics/herewegov/releases/tag/herewegov"> Get HereWeGov </a></span><br>
+<span><a href="https:https://github.com/candynamics/herewegov/discussions"> Diskusijas </a></span><br>
+
+
 ### LAT
 "Paš-organizācijas" koncepts valsts iestādei uz <a href="https://dynamics.microsoft.com/en-us/sales/overview/">Microsoft Dynamics 365 for Sales</a> bāzes.
 Potenciāli noderīgu ideju un funkcionalitātes apkopojums valsts iestādes vajadzībām.

@@ -1,4 +1,7 @@
 # here we gov
+<span><a href="https://github.com/candynamics/herewegov/wiki"> Wiki </a></span>
+<span><a href="https://github.com/orgs/candynamics/projects/1"> Projekts </a></span>
+<span><a href="https://github.com/candynamics/herewegov/releases/tag/herewegov"> Get herewegov </a></span>
 ### LAT
 "Paš-organizācijas" koncepts valsts iestādei uz <a href="https://dynamics.microsoft.com/en-us/sales/overview/">Microsoft Dynamics 365 for Sales</a> bāzes.
 Potenciāli noderīgu ideju un funkcionalitātes apkopojums valsts iestādes vajadzībām.
@@ -11,9 +14,7 @@ This is a collection of ideas and functionality that might be useful for a publi
 Intended to be imported into an existing Dynamics 365 environment without existing customizations.
 Available as a .zip <a href="https://docs.microsoft.com/en-us/dynamics365/customerengagement/on-premises/developer/introduction-solutions?view=op-9-1">solution</a> file. This project is and will be a work in progress as ideas come and go.
 
-<span><a href="https://github.com/candynamics/herewegov/wiki">WIKI | Apraksts</a></span>
-<span><a href="https://github.com/orgs/candynamics/projects/1">Projekts</a></span>
-<span><a href="https://github.com/candynamics/herewegov/releases/tag/herewegov">Get herewegov</a></span>
+
 
 ![HWG lietotāja pamata vide](https://github.com/candynamics/herewegov/blob/main/hwg%20main%20interface.png)
 
